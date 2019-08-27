@@ -1,7 +1,7 @@
 package org.katas.refactoring;
 
 import java.util.List;
-
+//Êı¾İÀà
 public class Order {
     String nm;
     String addr;
